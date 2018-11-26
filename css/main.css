@@ -56,17 +56,17 @@ body {
 }
 
 .robot:hover .robot-head-left {
-  top: 10px;
+  top: 5px;
   left: 0;
   right: auto;
 }
 
 .robot:hover .robot-head-right {
-  top: 10px;
+  top: 5px;
   left: 0;
   right: auto;
 }
 
 .robot:hover .robot-brain {
-  top: 50px;
+  top: 40px;
 }
