@@ -27,7 +27,7 @@ body {
 
 .robot-body {
   width: 320px;
-  position: relative;
+  position: absolute;
   bottom: 0;
 }
 
