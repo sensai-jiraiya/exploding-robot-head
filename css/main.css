@@ -27,13 +27,31 @@ body {
 
 .robot-body {
   width: 320px;
+  position: relative;
+  bottom: 0;
 }
 
 .robot-brain {
   width: 46px;
+  position: absolute;
+  top: 80px;
+  left; 0;
+  right: 0;
+  margin: 0 auto;
+
 }
 
 .robot-head-right,
 .robot-head-left {
   width: 125px;
+  position: absolute;
+  top: 20px;
+}
+
+.robot-head-right {
+  left: 50%;
+}
+
+.robot-head-left {
+  right: 50%;
 }
